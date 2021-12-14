@@ -1,0 +1,25 @@
+#button1 {
+    border: 2px seagreen;
+    border-style: solid;
+    border-radius: 50px;
+    background-color: white;
+    color:seagreen;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+}
+#button2 {
+    border-style: solid;
+    background-color: seagreen;
+    color:white;
+    padding: 5px;
+    margin: 10px;
+}
+#button3 {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,0.8631653344931722) 9%, rgba(205,44,104,1) 36%, rgba(84,253,45,1) 100%);
+    padding: 10px;
+    border-radius: 4px;
+    margin: 10px;
+}
